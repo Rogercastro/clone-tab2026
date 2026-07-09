@@ -1,0 +1,25 @@
+{
+  "name": "clone-tab2026",
+  "version": "1.0.0",
+  "description": "De volta aos codigos!",
+  "homepage": "https://github.com/Rogercastro/clone-tab2026#readme",
+  "bugs": {
+    "url": "https://github.com/Rogercastro/clone-tab2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rogercastro/clone-tab2026.git"
+  },
+  "license": "MIT",
+  "author": "Roger Castro",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
