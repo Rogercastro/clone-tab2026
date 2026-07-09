@@ -1,5 +1,5 @@
 # clone-tab2026
 
 De volta aos códigos!
-dia 6 - Fazendo commits de forma mais rápida
+Dia 7 - Primeira pista Lenta
 testing git push
