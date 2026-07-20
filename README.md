@@ -2,4 +2,4 @@
 
 De volta aos códigos!
 Dia 7 - Primeira pista Lenta
-testing git push once, again!
+testing git push once again!
